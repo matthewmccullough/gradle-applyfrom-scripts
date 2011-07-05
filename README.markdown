@@ -1,14 +1,4 @@
-# Gradle ApplyFrom Scripts
-These scripts are hosted on [GitHub](https://github.com/matthewmccullough/gradle-applyfrom-scripts) for the purposes of allowing direct `apply from` use from the web, or cloning of this repository to your local disk as a collection of useful Gradle add-ons.
+Though I started this project under my username, this project has migrated to Gradle's repos on GitHub for a more central place for the community to contribute. I will continue to contribute heavily, but want many others to feel welcome to participate too.
 
-## Use
-In your Gradle build file, simply path to one of the scripts in its raw form as follows:
-
-    apply from: 'https://raw.github.com/matthewmccullough/gradle-applyfrom-scripts/master/printclasspath/printclasspath.gradle'
-
-
-## Acknowledgements
-JIRA tickets and the Cookbook are the primary sources of inspiration for these scripts.
-
-## Contributions
-Community contributions to these scripts are welcomed. They are, in short, like an amplified and working version of cookbook materials. Cookbooks are great, but they facilitate copy-and-paste coding. I'd rather see the prescribed solutions in a cookbook put into executable form where we can fork, fix, and commit changes to them over time.
+Visit:
+https://github.com/gradle/scripts
